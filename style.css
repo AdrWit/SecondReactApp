@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  overflow: hidden;
+}
+
+.title {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif padding: 20px;
+  font-size: 30px;
+}
+
+input[type="text"],
+button {
+  padding: 10px 30px;
+  border: black 2px solid;
+  font-size: 30px;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+}
